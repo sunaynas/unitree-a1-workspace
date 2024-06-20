@@ -4,3 +4,4 @@
 [submodule "src/unitree_ros_a1"]
 	path = src/unitree_ros_a1
 	url = https://github.com/sunaynas/unitree_ros_a1.git
+	branch = master
