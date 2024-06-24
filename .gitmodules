@@ -8,3 +8,5 @@
 [submodule "src/ros-object-detection"]
 	path = src/ros-object-detection
 	url = git@github.com:sunaynas/ros-object-detection.git
+[submodule "ros-object-detection"]
+	url = https://github.com/sunaynas/ros-object-detection.git
