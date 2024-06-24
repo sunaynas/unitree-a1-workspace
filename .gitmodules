@@ -5,3 +5,6 @@
 	path = src/unitree_ros_a1
 	url = https://github.com/sunaynas/unitree_ros_a1.git
 	branch = master
+[submodule "src/ros-object-detection"]
+	path = src/ros-object-detection
+	url = git@github.com:sunaynas/ros-object-detection.git
