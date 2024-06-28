@@ -31,8 +31,9 @@ To build the project, run
 
 If the run_controller script is not working, here is the manual process to start the controller service node:
 
-Run <pre>./build.sh</pre>
-Then open a new terminal and run: <pre>roscore</pre>
+Build
+Then open a new terminal and run <pre>roscore</pre>
+
 Then open a new terminal and run: 
 <pre>cd ~/catkin_ws
 sudo su</pre>
@@ -50,3 +51,10 @@ rotateSpeed: 0.0"</pre>
 but replace the numbers with your desired values.
 
 Mode 1 is stationary sports mode, and mode 2 is walking sports mode.
+
+## Getting camera data
+Build by running `./build.sh` then run:
+<pre>roslaunch realsense2_camera rs_camera.launch</pre>
+
+If you want to visualize the data, you can also run 
+<pre>rosrun rqt_image_view rqt_image_view</pre>
