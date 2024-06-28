@@ -27,7 +27,24 @@ Then run
 To build the project, run 
 <pre>./build.sh</pre>
 
-## Running the controller manually
+## Running the controller
+
+Simply run:
+<pre> ./scripts/run_controller.sh</pre>
+Once putting in the sudo user password, it will launch 3 proccess in seperate terminals.
+
+The first proccess is roscore, the second is roslaunching the launch file, and the third is finally running the controller.
+
+To manually send requests, you can run:
+<pre>rosservice call /controller_node/control_a1 "mode: 1
+forwardSpeed: 0.0
+sideSpeed: 0.0
+rotateSpeed: 0.0"</pre>
+but replace the numbers with your desired values.
+
+Mode 1 is stationary sports mode, and mode 2 is walking sports mode.
+
+### Mannually running the controller
 
 If the run_controller script is not working, here is the manual process to start the controller service node:
 
@@ -42,15 +59,6 @@ Then as the super user, run:
 roslaunch unitree_legged_real real.launch</pre>
 Finally, open another terminal and run
 <pre>rosrun unitree_legged_real controller</pre>
-
-To manually send requests open a new terminal and run
-<pre>rosservice call /controller_node/control_a1 "mode: 1
-forwardSpeed: 0.0
-sideSpeed: 0.0
-rotateSpeed: 0.0"</pre>
-but replace the numbers with your desired values.
-
-Mode 1 is stationary sports mode, and mode 2 is walking sports mode.
 
 ## Getting camera data
 Build by running `./build.sh` then run:
