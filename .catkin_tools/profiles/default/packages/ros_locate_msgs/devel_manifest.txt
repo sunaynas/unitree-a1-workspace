@@ -1,0 +1,5 @@
+ros-object-detection/ros_locate_msgs
+/home/unitree/catkin_ws/devel/.private/ros_locate_msgs/cmake.lock /home/unitree/catkin_ws/devel/./cmake.lock
+/home/unitree/catkin_ws/devel/.private/ros_locate_msgs/share/ros_locate_msgs/cmake/ros_locate_msgsConfig-version.cmake /home/unitree/catkin_ws/devel/share/ros_locate_msgs/cmake/ros_locate_msgsConfig-version.cmake
+/home/unitree/catkin_ws/devel/.private/ros_locate_msgs/share/ros_locate_msgs/cmake/ros_locate_msgsConfig.cmake /home/unitree/catkin_ws/devel/share/ros_locate_msgs/cmake/ros_locate_msgsConfig.cmake
+/home/unitree/catkin_ws/devel/.private/ros_locate_msgs/lib/pkgconfig/ros_locate_msgs.pc /home/unitree/catkin_ws/devel/lib/pkgconfig/ros_locate_msgs.pc

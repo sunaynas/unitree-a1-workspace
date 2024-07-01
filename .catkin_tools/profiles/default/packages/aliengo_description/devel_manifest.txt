@@ -1,0 +1,5 @@
+unitree_ros_a1/robots/aliengo_description
+/home/unitree/catkin_ws/devel/.private/aliengo_description/cmake.lock /home/unitree/catkin_ws/devel/./cmake.lock
+/home/unitree/catkin_ws/devel/.private/aliengo_description/share/aliengo_description/cmake/aliengo_descriptionConfig.cmake /home/unitree/catkin_ws/devel/share/aliengo_description/cmake/aliengo_descriptionConfig.cmake
+/home/unitree/catkin_ws/devel/.private/aliengo_description/share/aliengo_description/cmake/aliengo_descriptionConfig-version.cmake /home/unitree/catkin_ws/devel/share/aliengo_description/cmake/aliengo_descriptionConfig-version.cmake
+/home/unitree/catkin_ws/devel/.private/aliengo_description/lib/pkgconfig/aliengo_description.pc /home/unitree/catkin_ws/devel/lib/pkgconfig/aliengo_description.pc

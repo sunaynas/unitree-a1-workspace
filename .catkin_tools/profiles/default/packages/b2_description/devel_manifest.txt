@@ -1,0 +1,5 @@
+unitree_ros_a1/robots/b2_description
+/home/unitree/catkin_ws/devel/.private/b2_description/cmake.lock /home/unitree/catkin_ws/devel/./cmake.lock
+/home/unitree/catkin_ws/devel/.private/b2_description/share/b2_description/cmake/b2_descriptionConfig-version.cmake /home/unitree/catkin_ws/devel/share/b2_description/cmake/b2_descriptionConfig-version.cmake
+/home/unitree/catkin_ws/devel/.private/b2_description/share/b2_description/cmake/b2_descriptionConfig.cmake /home/unitree/catkin_ws/devel/share/b2_description/cmake/b2_descriptionConfig.cmake
+/home/unitree/catkin_ws/devel/.private/b2_description/lib/pkgconfig/b2_description.pc /home/unitree/catkin_ws/devel/lib/pkgconfig/b2_description.pc
