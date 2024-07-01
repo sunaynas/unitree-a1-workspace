@@ -1,5 +1,0 @@
-unitree_ros_a1/robots/go1_description
-/home/unitree/catkin_ws/devel/.private/go1_description/cmake.lock /home/unitree/catkin_ws/devel/./cmake.lock
-/home/unitree/catkin_ws/devel/.private/go1_description/share/go1_description/cmake/go1_descriptionConfig.cmake /home/unitree/catkin_ws/devel/share/go1_description/cmake/go1_descriptionConfig.cmake
-/home/unitree/catkin_ws/devel/.private/go1_description/share/go1_description/cmake/go1_descriptionConfig-version.cmake /home/unitree/catkin_ws/devel/share/go1_description/cmake/go1_descriptionConfig-version.cmake
-/home/unitree/catkin_ws/devel/.private/go1_description/lib/pkgconfig/go1_description.pc /home/unitree/catkin_ws/devel/lib/pkgconfig/go1_description.pc

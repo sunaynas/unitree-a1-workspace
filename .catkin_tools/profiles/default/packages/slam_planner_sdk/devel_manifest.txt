@@ -1,2 +1,0 @@
-slamrplidar/slam_planner_sdk
-/home/unitree/catkin_ws/devel/.private/slam_planner_sdk/cmake.lock /home/unitree/catkin_ws/devel/./cmake.lock

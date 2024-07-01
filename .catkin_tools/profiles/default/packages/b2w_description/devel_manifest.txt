@@ -1,5 +1,0 @@
-unitree_ros_a1/robots/b2w_description
-/home/unitree/catkin_ws/devel/.private/b2w_description/cmake.lock /home/unitree/catkin_ws/devel/./cmake.lock
-/home/unitree/catkin_ws/devel/.private/b2w_description/share/b2w_description/cmake/b2w_descriptionConfig-version.cmake /home/unitree/catkin_ws/devel/share/b2w_description/cmake/b2w_descriptionConfig-version.cmake
-/home/unitree/catkin_ws/devel/.private/b2w_description/share/b2w_description/cmake/b2w_descriptionConfig.cmake /home/unitree/catkin_ws/devel/share/b2w_description/cmake/b2w_descriptionConfig.cmake
-/home/unitree/catkin_ws/devel/.private/b2w_description/lib/pkgconfig/b2w_description.pc /home/unitree/catkin_ws/devel/lib/pkgconfig/b2w_description.pc

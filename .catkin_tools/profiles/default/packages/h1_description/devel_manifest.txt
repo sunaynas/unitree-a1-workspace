@@ -1,5 +1,0 @@
-unitree_ros_a1/robots/h1_description
-/home/unitree/catkin_ws/devel/.private/h1_description/cmake.lock /home/unitree/catkin_ws/devel/./cmake.lock
-/home/unitree/catkin_ws/devel/.private/h1_description/share/h1_description/cmake/h1_descriptionConfig.cmake /home/unitree/catkin_ws/devel/share/h1_description/cmake/h1_descriptionConfig.cmake
-/home/unitree/catkin_ws/devel/.private/h1_description/share/h1_description/cmake/h1_descriptionConfig-version.cmake /home/unitree/catkin_ws/devel/share/h1_description/cmake/h1_descriptionConfig-version.cmake
-/home/unitree/catkin_ws/devel/.private/h1_description/lib/pkgconfig/h1_description.pc /home/unitree/catkin_ws/devel/lib/pkgconfig/h1_description.pc
